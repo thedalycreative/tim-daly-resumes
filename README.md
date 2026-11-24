@@ -22,7 +22,8 @@ tim-daly-resumes/
 │   ├── js/
 │   │   └── scripts.js      Print buttons, external links in new tabs
 │   ├── images/
-│   │   ├── logo.png        Personal logo (also the favicon)
+│   │   ├── avatar.jpg      Illustrated portrait (landing page)
+│   │   ├── logo.png        Personal logo (favicon)
 │   │   └── logos/          Employer and organisation logos
 │   └── pdf/                Downloadable PDF versions
 └── README.md

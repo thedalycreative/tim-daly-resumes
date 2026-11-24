@@ -162,7 +162,7 @@ p{margin:0 0 6px}
 .landing{max-width:860px;margin:32px auto;padding:0 16px 40px}
 .landing .hero{border-radius:16px}
 .landing-brand{display:flex;align-items:center;gap:14px}
-.landing-brand img{width:56px;height:56px;border-radius:14px;background:#fff;padding:6px}
+.landing-brand img{width:72px;height:72px;border-radius:50%;object-fit:cover;box-shadow:0 0 0 3px rgba(255,255,255,.85)}
 .landing-intro{font-size:11pt;margin:18px 2px 6px;color:var(--text)}
 .resume-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:16px}
 .resume-card{background:#fff;border:1px solid var(--border);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px}
